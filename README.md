@@ -1,7 +1,3 @@
-Here's a short README file about the basics of shell commands:
-
-markdown
-
 # Basics of Shell Commands
 
 Welcome to this repository on the basics of shell commands!
